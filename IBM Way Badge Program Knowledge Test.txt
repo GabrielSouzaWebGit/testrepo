@@ -1,0 +1,111 @@
+Which of the following is not a principle of the IBM Way?
+	Cognitive process transformation - X
+
+Which of the following is not an aspect of our ‘agile on the cloud’ principle?
+	co-create, co-execute and co-operate our clients’ application and infrastructure environments - ( )
+	leverage design thinking strategies to deliver on client cloud strategies - X
+
+Based on the IBM Way, what can a client expect out of a relationship with IBM
+	We build long-term relationships with our clients based on innovation, trust and service excellence - ( )
+
+What approach will you use to re-engineer our business processes?
+	We will apply cognitive approaches to process re-engineering efforts and always consider the impact of new technologies such as IoT and Blockchain. ( )
+
+How is the client ethos defined?
+	The shared beliefs we embody to put clients first - X
+
+Complete the Client Ethos: As a client, I expect my partner to…
+	Know me, advise me, deliver for me, champion me, inspire me - X
+
+Using the Client Ethos, what are ways in which we can “know” our clients? Select all that apply.
+	Know client’s business - X
+
+Which of the following is not a Client Value Discipline?
+	Seek value pools - ( )
+	Reinvention by design - X
+
+Which of the following is not an IBM Services Great 8 offering theme?
+	Data Value Realization - ( )
+	Cognified and Automated Business Process Outsourcing - X
+
+Fill in the blank: The _____ enables us to innovate and develop at the speed of a start-up, with the scale and rigor of an enterprise.
+	Client Innovation Center - ( )
+	IBM Garage - X
+
+Which IBM Way principle reflects the statement “we are a people business”
+	Inspired talent - X
+
+What IBM tool would you use to search for industry insights, client examples and templates?
+	Connections - ( )
+	Lighthouse - X
+
+Which Great 8 offering theme helps clients unlock and exploit the value of their data, derive insights, monetize them and use them to reinvent their workflows. 
+	Enterprise Strategy & Experience - NO
+	Data Value Realization - X
+
+What process does IBM recommend using to test applications before delivery?
+	Design thinking to test applications before they are presented to the client - ( )
+	Agile development and testing approaches - X
+
+Fill in the blanks: Advise, _____, move, _____ and maintain are the elements of the Hybrid Cloud Journey.
+	Build, manage - ( )
+
+Which of the IBM Way principles reflects the statement “use consistent, modern methods and tools?”
+	Delivered with confidence and quality - X
+
+Fill in the blanks: IBM Services is organized to focus on what clients need most. Our offering portfolio is _____, focused on enterprise strategy, ______, and software defined infrastructure.
+	Industry-centric, intelligent workflows - X
+
+True or False: “The IBM Way is the vehicle we use to bring consistent excellence to our clients’ experiences of IBM and IBM Services across industries and practices”
+	True - X
+
+Which of the following statements apply to the fifth IBM Way principle: Inspired Talent?
+	All of the above - X
+
+Which of the following statements applies to the third IBM Way principle: Cognitive to the Core?
+	We shape our client’s strategy around the value in their own data and its unique application to their business, along with other sources of data and insight. - (??)
+	We believe that the next wave of Enterprise Transformation is upon us and is being driven by the application at scale of a broad range of cognitive technologies, enabling reinvented workforces and new business models. - X
+
+Which part of the client ethos would a client expect a IBM partner to “bring me innovation that has meaningful impact to my business”
+	Inspire me - X
+
+Which part of the client ethos would a client expect a IBM partner to “advocate for my company and enhance my personal brand”
+	Champion me - X
+
+How many parts are there to the Client Ethos?
+	Five - (??)
+
+How can an IBMer engage in digital business strategy according to IBM Way principle #2 Reinvention by Design 
+	Embed design thinking and experience-led insights in shaping business models, intelligent workflows and enabling technologies. - (??)
+
+Which of the following is an example of putting clients first?
+	All of the above - (??)
+
+Which IBM Way principle matches best with this statement: “Infuse cognitive and exponential technologies into our clients’ enterprises and core workflows”
+	Cognitive to the core - (X)
+
+The following statements apply to which IBM Way principle: co-create, co-execute and co-operate our clients’ application and infrastructure environments, use Agile development methods, bridge legacy architectures to the appropriate next generation cloud architecture.
+	Agile on the cloud - ( )	
+
+Which statement best applies to the IBM Way principle: Inspired Talent?
+	All the above - (??)
+
+Why do we use Net Promoter Score (NPS)?
+	All of the above - ( )
+
+How do you calculate the Net Promoter Score?
+	% of Promoters - % of Detractors - ( )
+
+IBM Design Thinking pairs with which IBM Way principle
+	Reinvention by design - X
+
+Which of the following is not an example of an exponential technology?
+	3G - X
+
+Fill in the blank: IBM Garage is our gearbox to scale and execute ____ and ____ Transformation for clients
+	Agile, Digital - NO
+	Digital, Cognitive - X
+
+Which of the following is not a type of Account classification?
+	Premier Accounts - ( )
+	Diamond Accounts - X
